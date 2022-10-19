@@ -1,0 +1,9 @@
+# A sample hosts file
+# A comment WOWzas
+ 0.0.0.0	owo.com		 # comment
+ 123.5.3.51	test	 # comment
+ 0.0.0.0	owo.com		 # comment
+ 0.0.0.0	owo.com		 # comment
+ 123.5.3.51	test		 # comment
+ 0.4.5.6	twitch		 # comment
+ 0.4.5.6	twitch		 # comment

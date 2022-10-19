@@ -1,0 +1,15 @@
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.csproj.AssemblyReference.cache
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.GeneratedMSBuildEditorConfig.editorconfig
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.AssemblyInfoInputs.cache
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.AssemblyInfo.cs
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.csproj.CoreCompileInputs.cache
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.dll
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.pdb
+F:\Workspace\WAST\bin\Debug\net6.0\WAST.exe
+F:\Workspace\WAST\bin\Debug\net6.0\WAST.deps.json
+F:\Workspace\WAST\bin\Debug\net6.0\WAST.runtimeconfig.json
+F:\Workspace\WAST\bin\Debug\net6.0\WAST.dll
+F:\Workspace\WAST\bin\Debug\net6.0\WAST.pdb
+F:\Workspace\WAST\obj\Debug\net6.0\refint\WAST.dll
+F:\Workspace\WAST\obj\Debug\net6.0\WAST.genruntimeconfig.cache
+F:\Workspace\WAST\obj\Debug\net6.0\ref\WAST.dll

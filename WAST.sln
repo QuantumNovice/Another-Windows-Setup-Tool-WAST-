@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WAST", "WAST.csproj", "{5E997681-AD3C-429B-95E9-7C27CB22E14D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5E997681-AD3C-429B-95E9-7C27CB22E14D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E997681-AD3C-429B-95E9-7C27CB22E14D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E997681-AD3C-429B-95E9-7C27CB22E14D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E997681-AD3C-429B-95E9-7C27CB22E14D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76547152-BCE4-480A-BE34-C8E68E64C23F}
+	EndGlobalSection
+EndGlobal
